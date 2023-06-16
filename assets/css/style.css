@@ -35,14 +35,16 @@ a {
     font-size: 30px;
     color: rgb(237, 76, 76);
 
+
 }
 
 .nav_item {
     column-gap: 25px;
+    font-size: 18px;
 }
 
 .nav_link:hover {
-    color: yellow;
+    color: rgb(215, 154, 154);
 }
 
 .button {
@@ -59,7 +61,7 @@ a {
 
 .home {
     position: relative;
-    height: 100vh;
+    height: 85vh;
     width: 100%;
     background-image: url("../images/programming\ evolution.jpg");
     background-size: cover;
@@ -210,6 +212,28 @@ a {
     padding: 10px 0;
     border-radius: 10px;
 }
+
+.classy {
+
+    padding: 5px 80px 80px;
+    margin: 0;
+
+}
+
+.social-networks {
+    display: flex;
+    height: 100%;
+    align-items: center;
+    justify-content: space-between;
+    margin-inline: 130px;
+    font-weight: 300;
+    font-size: 25px;
+}
+
+
+
+
+
 
 
 .login_signup {
