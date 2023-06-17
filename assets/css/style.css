@@ -223,7 +223,7 @@ a {
 
 .classy {
 
-    padding: 5px 80px 80px;
+    padding: 5px 80px 40px;
     margin: 0;
 
 }
@@ -236,8 +236,14 @@ a {
     font-weight: 300;
     font-size: 25px;
     list-style-type: none;
+    justify-content: space-evenly;
 }
 
+.mss {
+    text-align: center;
+    color: rgb(7, 7, 93);
+    font-size: 18px;
+}
 
 .floff h2 {
     font-size: 22px;
@@ -246,12 +252,16 @@ a {
 }
 
 .floff li {
-    color: #084692;
+    color: #063165;
     font-size: 16px;
     list-style-type: none;
     font-weight: bold;
 
 
+}
+
+.social-networks .mow {
+    font-size: 18px;
 }
 
 
