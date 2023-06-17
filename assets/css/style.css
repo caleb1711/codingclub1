@@ -4,7 +4,7 @@ a {
 
 
 .header {
-    position: fixed;
+    position: absolute;
     height: 80px;
     width: 100%;
     z-index: 100;
@@ -227,7 +227,18 @@ a {
     justify-content: space-between;
     margin-inline: 130px;
     font-weight: 300;
-    font-size: 25px;
+    font-size: 20px;
+    list-style-type: none;
+}
+
+.floff h2 {
+    font-size: 22px;
+    color: #3a136c;
+}
+
+.floff li {
+    color: #262d92;
+    font-size: 18px;
 }
 
 
