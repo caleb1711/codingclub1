@@ -3,6 +3,7 @@ a {
 }
 
 
+
 .header {
     position: absolute;
     height: 80px;
@@ -26,6 +27,10 @@ a {
     justify-content: space-between;
 }
 
+
+
+
+
 .nav_logo,
 .nav_link {
     color: white;
@@ -41,6 +46,7 @@ a {
 .nav_item {
     column-gap: 25px;
     font-size: 18px;
+
 }
 
 .nav_link:hover {
@@ -53,6 +59,8 @@ a {
     border: white;
     border-radius: 6px;
     cursor: pointer;
+
+
 }
 
 .button:active {
@@ -225,21 +233,28 @@ a {
     height: 100%;
     align-items: center;
     justify-content: space-between;
-    margin-inline: 130px;
     font-weight: 300;
-    font-size: 20px;
+    font-size: 25px;
     list-style-type: none;
 }
 
+
 .floff h2 {
     font-size: 22px;
-    color: #3a136c;
+    color: #461784;
+    font-weight: bold;
 }
 
 .floff li {
-    color: #262d92;
-    font-size: 18px;
+    color: #084692;
+    font-size: 16px;
+    list-style-type: none;
+    font-weight: bold;
+
+
 }
+
+
 
 
 
@@ -251,4 +266,9 @@ a {
     font-size: 16px;
     text-align: center;
     margin-top: 15px;
+}
+
+.lss {
+    list-style-type: none;
+    padding: 156px;
 }
