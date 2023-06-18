@@ -63,7 +63,7 @@ Once the Master Branch has been selected, the page provided the link to the comp
 #### Contents
 The Code used for the Login (Javscript) was taken from Youtube (CodingLab)
 The fonts used was taken from Fontawesome
-The CI Love Running Project greatly inspired me in the creation of my Project
+
 
 ## Media
 The image used was taken from Google
