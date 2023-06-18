@@ -1,2 +1,2 @@
-Coding Culb
-Hat3rick (Hattrick) is a Website, designed for Parents, who want to register their kids in a Football Camp. Hat3rick is a Summer Football Camp for Kids between the age of 7 and 12; who are passionate about Football and are keen on improving their Skills, learning the Art of the Game and having Fun.
+# Coding Culb
+Coding Club is a Website, put together for Adults, who want to learn and delve in the World of Coding, and Parents, who are keen on leading their Children into the World of Programing . Your journey at the Coding Club is Unique and challenging, as you will taught by Elite knowdgeable Teachers in the Field.
