@@ -30,7 +30,7 @@ This Section emphasizes the benefits of learning the skill of Coding and some po
 
 
 ## The footer
-The footer gives options to the Users to visit our various Social Media plattforms, where they can get to know more about us
+The footer gives options to the Users to visit our various Social Media platforms, where they can get to know more about us
 
 
 <img width="960" alt="footer" src="https://github.com/caleb1711/codingclub1/assets/130179631/36904d31-4dcd-4a38-83d4-3ff30588e5e5">
