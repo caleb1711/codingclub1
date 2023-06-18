@@ -34,3 +34,36 @@ The footer gives options to the Users to visit our various Social Media platform
 
 
 <img width="960" alt="footer" src="https://github.com/caleb1711/codingclub1/assets/130179631/36904d31-4dcd-4a38-83d4-3ff30588e5e5">
+
+
+### Testing
+I put this page to test on different browsers, Chrome, Safari, Firefox
+I confirmed that, this page is responsive, looks good and functions accurately on all screen sizes using the devtool device toolbar
+I confirmed that, the header, the login/sign up pages are easy to understand and to use
+
+## Validator Testing
+##### HTML
+No errors were returned, when passing through the official W3C validator
+##### CSS
+No errors were found, when passing through the (jigsaw) validator
+##### JAVASCRIPT
+No errors were returned, when passing through the official Code Beutify validator
+
+### Accessibility
+I confirmed that the colors and fonts chosen are easily reable and accessible by running it through lighthouse in devtools
+
+<img width="960" alt="accessibility " src="https://github.com/caleb1711/codingclub1/assets/130179631/0bc0f9f9-20a9-4361-9b25-a4c500a35add">
+
+## Deployment
+In the GitHub repository, navigate to the Settings tab
+From the Source drop-down menu, select the Master Branch
+Once the Master Branch has been selected, the page provided the link to the completed website
+
+# Credits
+#### Contents
+The Code used for the Login (Javscript) was taken from Youtube (CodingLab)
+The fonts used was taken from Fontawesome
+The CI Love Running Project greatly inspired me in the creation of my Project
+
+## Media
+The image used was taken from Google
