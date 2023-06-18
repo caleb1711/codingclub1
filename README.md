@@ -9,5 +9,4 @@ Coding Club is a Website, put together for Adults, who want to learn and delve i
 At the top left of the page is the name of the Website
 At the right side of the page is the login button; which allows Partakers login or sup
 
-
-<img width="960" alt="login" src="https://github.com/caleb1711/codingclub1/assets/130179631/9a7c4d19-f98e-4fd0-8684-7466ea4a882f">
+<img width="960" alt="login 2" src="https://github.com/caleb1711/codingclub1/assets/130179631/c525790c-f849-4b95-ae9e-b86729dcebab">
