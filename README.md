@@ -21,3 +21,10 @@ The Login Button was created with Javascripts addEventList, querySelector etc wh
 
 <img width="960" alt="lighthouse results" src="https://github.com/caleb1711/codingclub1/assets/130179631/b06fa3b5-79b8-495a-ae5d-bb9e19f95514">
 
+
+## The Learn to Code with Us section
+This Section emphasizes the benefits of learning the skill of Coding and some positive impacts it can have in your life
+
+
+<img width="960" alt="ltcwu" src="https://github.com/caleb1711/codingclub1/assets/130179631/4d37455a-3728-4cf5-a322-40bb8a76673a">
+
