@@ -14,8 +14,8 @@ At the right side of the page is the login button; which allows Partakers login 
 
 
 # The Login Button
-It offers the members or new Visitors the chance to sign - in or sign - up with a single click on the Login Button.
-The Login Button was created with Javascripts addEventList, querySelector etc which pops up the Loggin Button, once click on it, giving the User the possibility to sign - in or sign - up. The input type email and password Required, insist the User fill in the blank spaces with the required Information
+It offers the members or new Visitors the chance to sign - in or sign - up by clicking on the Login Button.
+The Login Button was created with Javascripts addEventList, querySelector etc which pops up the Login Button, once click on it, giving the User the possibility to sign - in or sign - up. The input type email and password Required, insist the User fill in the blank spaces with the required Information
 
 
 
